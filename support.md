@@ -2,7 +2,7 @@
 
 Need help? Contact us:
 
-**Email:** [YOUR SUPPORT EMAIL]
+**Email:** [aaronodum@gmail.com]
 
 ## Common Issues
 
@@ -15,4 +15,4 @@ Need help? Contact us:
 
 ## Data / Privacy Requests
 To request account deletion or a copy of your data, email:
-[YOUR SUPPORT EMAIL]
+[aaronodum@gmail.com]
