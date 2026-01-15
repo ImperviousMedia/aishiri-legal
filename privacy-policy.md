@@ -1,8 +1,8 @@
-# Renka Privacy Policy
+# Aishiri Privacy Policy
 
 Last updated: 2025-12-19
 
-This Privacy Policy explains how Renka collects, uses, and shares information.
+This Privacy Policy explains how Aishiri collects, uses, and shares information.
 
 ## Information We Collect
 **Account Information**
@@ -40,9 +40,9 @@ We keep data as long as needed to provide the service or until you request delet
 ## Your Choices
 - You can sign out and stop using the service at any time.
 - You can request deletion of your account data by emailing:
-  [AARONODUM@GMAIL.COM]
+  [HELLO@AISHIRI.COM]
 
 ## Contact
 Privacy questions:
-[AARONODUM@GMAIL.COM]
+[HELLO@AISHIRI.COM]
 
