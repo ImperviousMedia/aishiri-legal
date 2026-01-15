@@ -1,5 +1,5 @@
 ---
-title: Aishiri Legal
+Aishiri Legal
 ---
 
 # Aishiri Legal
