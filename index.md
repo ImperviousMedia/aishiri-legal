@@ -1,8 +1,8 @@
 ---
-title: Renka Legal
+title: Aishiri Legal
 ---
 
-# Renka Legal
+# Aishiri Legal
 
 - [Support](support.html)
 - [Privacy Policy](privacy-policy.html)
