@@ -5,7 +5,7 @@ Last updated: 2025-12-19
 These Terms of Use (“Terms”) govern your use of the Aishiri mobile application (“Aishiri,” “we,” “us”). By using Renka, you agree to these Terms.
 
 ## 1. What Aishiri Does
-Aishiri helps users correlate anime episodes and manga chapters, track progress, and optionally use “Lore Mode” features.
+Renka helps users correlate anime episodes and manga chapters, track progress, and optionally use “Lore Mode” features.
 
 ## 2. Accounts
 Some features require an account (for example: saving progress, comments, and cross-device sync). You are responsible for maintaining the confidentiality of your account credentials.
@@ -48,7 +48,7 @@ We may update these Terms from time to time. Continued use after changes means y
 
 ## 10. Contact
 Questions about these Terms:
-Hello@aishiri.COM
+HELLO@AISHIRI.COM
 
 ## 11. Apple EULA
 If you are using Renka on an Apple device, you also agree to Apple’s standard End User License Agreement (EULA) unless you provide a custom one in App Store Connect.
